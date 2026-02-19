@@ -1,35 +1,37 @@
-# StockMate – Stock Management System
+# StockMate – Stock Management System 📦
 
-StockMate is a simple and user-friendly **Stock Management System** built as a college project to help businesses keep track of inventory, products, and stock levels.
-
----
-
-## 🚀 Overview
-
-StockMate allows you to:
-- Add, view, update, and delete products
-- Track product quantities
-- Manage stock levels
-- View reports of current stock
-
-This system is ideal for learning CRUD operations and basic inventory management logic.
+StockMate is a modern and efficient **Stock Management System** built using **React,js**.  
+This application enables users to manage inventory, track stock levels, and maintain product records through a clean and responsive interface.
 
 ---
 
-## 📌 Features
+## 📌 Project Overview
 
-✔ Product Management – Add, edit, delete products  
-✔ Inventory tracking – View current stock levels  
-✔ Easy UI with HTML, CSS, and JS  
-✔ Simple data handling (no database required)  
-✔ Beginner-friendly code for learning
+StockMate is designed as a college-level project to demonstrate practical implementation of:
+
+- CRUD Operations (Create, Read, Update, Delete)
+- Inventory tracking logic
+- Modern frontend development using Next.js
+- Structured and scalable project architecture
 
 ---
 
-## 🛠 Tech Stack
+## ✨ Key Features
 
-- **HTML** – Structure  
-- **CSS** – Styling  
-- **JavaScript** – Logic  
-- No backend/server (static project)
+- Add new products to inventory  
+- Update existing product details  
+- Delete products from stock  
+- Monitor real-time stock levels  
+- Responsive and user-friendly interface  
+
+---
+
+## 🛠 Technology Stack
+
+-  **React Framework**  
+- **React** – UI Development  
+- **JavaScript** – Application Logic  
+- **CSS / Tailwind CSS** – Styling (if applicable)  
+
+---
 
